@@ -1,2 +1,1 @@
-# JS-asynchronicit-
 # JS-asynchrone
